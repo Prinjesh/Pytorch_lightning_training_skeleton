@@ -1,4 +1,4 @@
-from models.config_0 import LitClassifier
+from config_0 import LitClassifier
 from pytorch_lightning.utilities.cli import LightningCLI
 
 
